@@ -1,0 +1,46 @@
+
+
+
+#header {
+    background-color:#888888 ;
+    color:white;
+    
+    padding:5px;
+}
+.titre{
+
+
+ 
+  color: black;               /*  Donc on utilise une police blanche pour que le texte soit visi border: 3px dotted #  padding: 0.3em;             /* Espacement intérieur non nul pour que le texte ne colle pas à la bordure du cadre */
+  text-align: center;         /* Le titre doit être centré ! */
+  letter-spacing: 0.3em;
+}
+.titre3{
+
+  background-color: #A8A8A8;
+  border-style: solid;
+  border-width: medium;
+  border-color: #909090 ;
+}
+.competence{
+  background-color: #C0C0C0;
+  border-style: solid; 
+  border-width: medium;
+  border-color: #909090 ;
+}
+
+
+/* ==========================================================================
+Footer
+========================================================================== */
+.footer1{
+	text-align: center;
+}
+
+.footer2{
+	font-weight: bold;
+} 
+.footer3{
+	color: #337ab7;
+	font-weight: bold;
+}
